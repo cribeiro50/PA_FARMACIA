@@ -1,4 +1,12 @@
 -- Criação da base de dados
+-- Script BD para Gestão de Farmácias para o Trabalho de PA
+-- Autores:
+-- André Silva
+-- Carlos Ribeiro
+-- Duarte Valente
+-- Rubem Brito
+-- Rui Azevedo
+
 CREATE DATABASE PA_GESTAO_FARMACIAS;
 GO
 
