@@ -7,6 +7,7 @@
 -- Rubem Brito
 -- Rui Azevedo
 
+
 CREATE DATABASE PA_GESTAO_FARMACIAS;
 GO
 
